@@ -2,10 +2,10 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
-	<classpathentry kind="lib" path="D:/projects/KingsleyRepository/JADE-all-3_1_.5/JADE-bin-3.5/jade/lib/http.jar"/>
-	<classpathentry kind="lib" path="D:/projects/KingsleyRepository/JADE-all-3_1_.5/JADE-bin-3.5/jade/lib/iiop.jar"/>
-	<classpathentry kind="lib" path="D:/projects/KingsleyRepository/JADE-all-3_1_.5/JADE-bin-3.5/jade/lib/jade.jar"/>
-	<classpathentry kind="lib" path="D:/projects/KingsleyRepository/JADE-all-3_1_.5/JADE-bin-3.5/jade/lib/jadeTools.jar"/>
-	<classpathentry kind="lib" path="D:/projects/KingsleyRepository/JADE-all-3_1_.5/JADE-bin-3.5/jade/lib/Base64.jar"/>
+	<classpathentry kind="lib" path="H:/projects/KinglseyRepository/JADE-all-3_1_.5/JADE-bin-3.5/jade/lib/Base64.jar"/>
+	<classpathentry kind="lib" path="H:/projects/KinglseyRepository/JADE-all-3_1_.5/JADE-bin-3.5/jade/lib/http.jar"/>
+	<classpathentry kind="lib" path="H:/projects/KinglseyRepository/JADE-all-3_1_.5/JADE-bin-3.5/jade/lib/iiop.jar"/>
+	<classpathentry kind="lib" path="H:/projects/KinglseyRepository/JADE-all-3_1_.5/JADE-bin-3.5/jade/lib/jade.jar"/>
+	<classpathentry kind="lib" path="H:/projects/KinglseyRepository/JADE-all-3_1_.5/JADE-bin-3.5/jade/lib/jadeTools.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

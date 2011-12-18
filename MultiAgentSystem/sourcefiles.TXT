@@ -1,7 +1,0 @@
-src\com\u1s1f1\collabsys\user\UserAgent.java
-src\com\u1s1f1\collabsys\user\UseFloorBehaviour.java
-src\com\u1s1f1\collabsys\user\CreateJoinSessionBehaviour.java
-src\com\u1s1f1\collabsys\session\SessionAgent.java
-src\com\u1s1f1\collabsys\session\MaintainSessionBehaviour.java
-src\com\u1s1f1\collabsys\floor\FloorAgent.java
-src\com\u1s1f1\collabsys\floor\MaintainFloorBehaviour.java

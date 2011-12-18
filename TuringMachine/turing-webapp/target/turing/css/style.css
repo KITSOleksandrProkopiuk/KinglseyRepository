@@ -1,0 +1,33 @@
+@CHARSET "UTF-8";
+
+.main_div_background {
+	background-color: #b0c4de;
+	text-align: center;
+	height: 100%;
+}
+
+.table_div_main {
+	background-color: #DCDCDC;
+	text-align: center;
+	width: 900px;
+	margin: auto;
+}
+
+.table_state {
+
+}
+
+.table_read_char {
+
+}
+
+.table_write_char {
+
+}
+
+.table_next_state {
+
+}
+.table_row{
+display:inline;
+}

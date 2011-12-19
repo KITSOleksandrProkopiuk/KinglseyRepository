@@ -1,7 +1,0 @@
-javac -classpath d:\jade\jade\lib\jade.jar;d:\jade\jade\lib\jadeTools.jar;d:\jade\jade\lib\Base64.jar;d:\jade\jade\lib\http.jar @D:\Jade\jade\com\u1s1f1\sourcefiles.txt
-
-d:
-
-cd jade\jade
-
-java -classpath d:\jade\jade\lib\jade.jar;d:\jade\jade\lib\jadeTools.jar;d:\jade\jade\lib\Base64.jar;d:\jade\jade\lib\http.jar;. jade.Boot session:com.u1s1f1.collabsys.session.SessionAgent floor:com.u1s1f1.collabsys.floor.FloorAgent user:com.u1s1f1.collabsys.user.UserAgent

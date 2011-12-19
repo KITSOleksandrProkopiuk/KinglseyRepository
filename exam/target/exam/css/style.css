@@ -1,0 +1,15 @@
+@CHARSET "UTF-8";
+
+.div_general {
+	background-color: #303030;
+	text-align: center;
+	width: 100%;
+	height: 100%;	
+}
+
+.div_dialog_field {
+	background-color: #B8B8B8;
+	text-align: center;
+	width: 70%;
+	height: 90%;
+}
